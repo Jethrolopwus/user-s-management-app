@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "Name": "Peter",
+      "email": "peter@gmail.com",
+      "phone": "08167456389"
+    
+    },
+
+    {
+      "id": 2,
+      "Name": "bitrus",
+      "email": "bitrus@gmail.com",
+      "phone": "09067354673"
+    
+    },
+    
+    {
+      "id": 3,
+      "Name": "Paul",
+      "email": "paul@gmail.com",
+      "phone": "09035647899"
+    
+    },
+    {
+      "id": 4,
+      "Name": "pizzy",
+      "email": "pizzy@gmail.com",
+      "phone": "08176889405"
+    
+    },
+    {
+      "id": 5,
+      "Name": "Victor",
+      "email": "victor@gmail.com",
+      "phone": "09145367289"
+    
+    }
+  ]
+
+ 
+}
